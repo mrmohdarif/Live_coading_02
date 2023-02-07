@@ -1,0 +1,82 @@
+.signpage {
+}
+.singnup {
+  /* margin-top: 100px; */
+  box-shadow: 5px 5px 15px black;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  row-gap: 20px;
+  width: 500px;
+  margin: 20px auto;
+}
+.signwithgoogle {
+  display: flex;
+  border: 1px solid #5a5655;
+  padding: 1px 100px 1px 100px;
+  justify-content: center;
+  align-items: center;
+  /* border: none; */
+  margin-bottom: 20px;
+  box-shadow: 8px 8px 8px rgb(81, 81, 81);
+  border-radius: 50px;
+  gap: 10px;
+  font-weight: bold;
+  font-size: 20px;
+}
+.Signupwithapple {
+  display: flex;
+  border: 1px solid #5a5655;
+  padding: 1px 100px 1px 100px;
+  justify-content: center;
+  align-items: center;
+  /* border: none; */
+  gap: 10px;
+  font-weight: bold;
+  font-size: 20px;
+  box-shadow: 8px 8px 8px rgb(81, 81, 81);
+  border-radius: 50px;
+}
+input {
+  padding: 15px 90px 15px 90px;
+  border: 1px solid #ced4da;
+  border-radius: 5px;
+}
+.next {
+  display: flex;
+  border: 1px solid #5a5655;
+  padding: 20px 175px 20px 175px;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  color: white;
+  border-radius: 50px;
+  font-weight: bold;
+  font-size: 20px;
+}
+.forget {
+  display: flex;
+  border: 1px solid #5a5655;
+  padding: 10px 120px 10px 120px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50px;
+  font-size: 18px;
+  font-weight: bold;
+}
+.noaccount {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: -20px;
+  font-size: 22px;
+}
+a {
+  font-size: 26px;
+  margin-top: -10px;
+}
+.Oroption {
+  font-weight: bold;
+}
